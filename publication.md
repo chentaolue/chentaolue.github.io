@@ -32,43 +32,42 @@
 - Taolue Chen, Fu Song, and Zhilin Wu. [Formal Reasoning About Infinite Data Values: An Ongoing Quest](pub-papers/CSW16_survey.pdf) (Invited survey). The 2nd International School on Engineering Trustworthy Software Systems (SETTS'16). LNCS 10,215, pp.195-257, 2017.
 - Taolue Chen, Fu Song, and Zhilin Wu. [Model Checking Pushdown Epistemic Game Structures](pub-papers/ICFEM.pdf). 19th International Conference on Formal Engineering Methods (ICFEM'17). LNCS 10610, pp. 36-53, 2017
 - Taolue Chen, Fu Song, and Zhilin Wu. [Tractability of Separation Logic with Inductive Definitions: Beyond Lists](pub-papers/concur17.pdf). 28th International Conference on Concurrency Theory (CONCUR'17),  LIPIcs 85, 37:1-37:17, 2017.
-- Zhaowei Xu, Taolue Chen, Zhilin Wu. [Satisfiability of Compositional Separation Logic with Tree Predicates and Data Constraints](). The 26th International Conference on Automated Deduction (CADE-26). LNCS 10395, pp. 509-527, 2017.
+- Zhaowei Xu, Taolue Chen, Zhilin Wu. [Satisfiability of Compositional Separation Logic with Tree Predicates and Data Constraints](pub-papers/XCW17.pdf). The 26th International Conference on Automated Deduction (CADE-26). LNCS 10395, pp. 509-527, 2017.
 - Yu Zhou, Ruihang Gu, Taolue Chen, Zhiqiu Huang, Sebastiano Panichella, and Harald Gall. [Analyzing APIs Documentation and Code Analyzing APIs Documentation and Code to Detect Directive Defects](pub-papers/icse17-zhou.pdf). ICSE'17, 2017, IEEE/ACM.
 - Guoxin Su, Taolue Chen, Yuan Feng, and David S. Rosenblum. [ProEva: Runtime Proactive Performance Evaluation Based on Continuous-Time Markov Chains](pub-papers/icse17-su.pdf). ICSE'17, 2017, IEEE/ACM.
-- Giuseppe Primiero, Franco Raimondi, Taolue Chen, Rajagopal Nagarajan. A Proof-theoretic Trust and Reputation Model for VANET. S4CIP'17, EuroS&P Workshops, pp. 146-152, 2017
+- Giuseppe Primiero, Franco Raimondi, Taolue Chen, Rajagopal Nagarajan. [A Proof-theoretic Trust and Reputation Model for VANET](pub-papers/PRCN17.pdf). S4CIP'17, EuroS&P Workshops, pp. 146-152, 2017
 
 ### 2016
 - Taolue Chen, Giuseppe Primiero, Franco Raimondi, Neha Rungta. [A Computationally Grounded, Weighted Doxastic Logic](pub-papers/sl16.pdf). Studia Logica, 104(4):679-703, 2016.
 - Guoxin Su, Yuan Feng, Taolue Chen, and David S. Rosenblum. [Perturbation Analysis of Stochastic Systems with Empirical Distribution Parameters: An Asymptotic Approach](pub-papers/TSE16.pdf). IEEE Trans. Software Eng. 42(7): 623-639, 2016.
 - Taolue Chen, Fu Song, and Zhilin Wu. [Verifying Pushdown Multi-Agent Systems against Strategy Logics](pub-papers/ijcai16.pdf). IJCAI16, pp. 180-186, AAAI Press, 2016. 
-- Taolue Chen, Fu Song, and Zhilin Wu. Global Model Checking on Pushdown Multi-Agent Systems. AAAI16, pp. 2459-2465, AAAI Press, 2016. 
-- Xincai Gu, Taolue Chen, and Zhilin Wu. A complete decision procedure for linearly compositional separation logic with data constraints. IJCAR16, LNCS 9706, pp. 532-549, 2016. 
-- Taolue Chen, Tingting Han, Florian Kammller, Ibrahim Nemli, and Christian W. Probst. Model based analysis of insider threats. Cyber Incident 2016. Cyber Security and Protection of Digital Services 2016: 1-3. IEEE.
-- Guoxin Su, Taolue Chen, Yuan Feng, David S. Rosenblum, and P. S. Thiagarajan. An Iterative Decision-Making Scheme for Markov Decision Processes and Its Application to Self-Adaptive Systems. FASE16. LNCS 9633 pp. 269-286, 2016.
+- Taolue Chen, Fu Song, and Zhilin Wu. [Global Model Checking on Pushdown Multi-Agent Systems](pub-papers/aaai16.pdf). AAAI16, pp. 2459-2465, AAAI Press, 2016. 
+- Xincai Gu, Taolue Chen, and Zhilin Wu. [A complete decision procedure for linearly compositional separation logic with data constraints](pub-papers/ijcar16.pdf). IJCAR16, LNCS 9706, pp. 532-549, 2016. 
+- Guoxin Su, Taolue Chen, Yuan Feng, David S. Rosenblum, and P. S. Thiagarajan. [An Iterative Decision-Making Scheme for Markov Decision Processes and Its Application to Self-Adaptive Systems](pub-papers/fase16.pdf). FASE16. LNCS 9633 pp. 269-286, 2016.
 
 ### 2015
-- Taolue Chen, Nengkun Yu and Tingting Han. Continuous-time Orbit Problems are Decidable in Polynomial-time. Information Processing Letters, 115(1): 11-14, 2015.
-- Taolue Chen, Wan Fokkink, Rob J. van Glabbeek. On the Axiomatizability of Impossible Futures. Logical Methods in Computer Science, 11(3:17): 1-30, 2015.
-- Taolue Chen, Florian Kammueller, Ibrahim Nemli, Christian Probst. A Probabilistic Analysis Framework for Malicious Insider Threats. HCI International 2015. LNCS 9190, 2015.
+- Taolue Chen, Nengkun Yu and Tingting Han. [Continuous-time Orbit Problems are Decidable in Polynomial-time](pub-papers/ipl15.pdf). Information Processing Letters, 115(1): 11-14, 2015.
+- Taolue Chen, Wan Fokkink, Rob J. van Glabbeek. [On the Axiomatizability of Impossible Futures](pub-papers/lmcs15.pdf). Logical Methods in Computer Science, 11(3:17): 1-30, 2015.
+- Taolue Chen, Florian Kammueller, Ibrahim Nemli, Christian Probst. [A Probabilistic Analysis Framework for Malicious Insider Threats](pub-papers/hci15.pdf). HCI International 2015. LNCS 9190, 2015.
 - Taolue Chen, Fu Song, Zhilin Wu. [On the Satisfiability of Indexed Linear Temporal Logics](pub-papers/concur15.pdf). CONCUR 2015. LIPIcs volume 42, pp. 254-267, 2015.
-- Jiayi Gu, Yu Zhou, Weigang Wu, Taolue Chen. Analyzing Eventual Leader Election Protocols for Dynamic Systems by Probabilistic Model Checking. ICCCS15. LNCS 9483, ppp. 192-205, 2015.
-- Yanxiang Tong, Yu Zhou, Lisheng Fang, and Taolue Chen. Towards A Novel Approach for Defect Localization Based on Part-of-Speech and Invocation. Internetware 2015, pp. 52-61, ACM, 2015. 
+- Jiayi Gu, Yu Zhou, Weigang Wu, Taolue Chen. [Analyzing Eventual Leader Election Protocols for Dynamic Systems by Probabilistic Model Checking](pub-papers/icccs15.pdf). ICCCS15. LNCS 9483, ppp. 192-205, 2015.
+- Yanxiang Tong, Yu Zhou, Lisheng Fang, and Taolue Chen. [Towards A Novel Approach for Defect Localization Based on Part-of-Speech and Invocation](pub-papers/Internetware15.pdf). Internetware 2015, pp. 52-61, ACM, 2015. 
 
 ### 2014
-- Taolue Chen, Marco Diciolla, Marta Z. Kwiatkowska, Alexandru Mereacre. Quantitative Verification of Implantable Cardiac Pacemakers over Hybrid Heart Models. Information and Computation 236: 87-101, 2014.
-- Taolue Chen, Stefan Kiefer. On the Total Variation Distance of Labelled Markov Chains. LICS14, 33:1-33:10, ACM, 2014.  
+- Taolue Chen, Marco Diciolla, Marta Z. Kwiatkowska, Alexandru Mereacre. [Quantitative Verification of Implantable Cardiac Pacemakers over Hybrid Heart Models](pub-papers/IC14.pdf). Information and Computation 236: 87-101, 2014.
+- Taolue Chen, Stefan Kiefer. [On the Total Variation Distance of Labelled Markov Chains](pub-papers/lics14.pdf). LICS14, 33:1-33:10, ACM, 2014.  
 - Taolue Chen, Yuan Feng, David Rosenblum, Guoxin Su. [Perturbation Analysis in Verification of Discrete-Time Markov Chains](pub-papers/concur14.pdf). CONCUR14, LNCS 8704, pp. 218-233, 2014.   
-- Taolue Chen, Tingting Han. On the Complexity of Computing Maximum Entropy for Markovian Models. FSTTCS14, LIPIcs volume 29, pp. 571-583, 2014.
+- Taolue Chen, Tingting Han. [On the Complexity of Computing Maximum Entropy for Markovian Models](pub-papers/fsttcs14.pdf). FSTTCS14, LIPIcs volume 29, pp. 571-583, 2014.
 
 ### 2013
-- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, David Parker, Aistis Simaitis. Automatic Verification of Competitive Stochastic Systems. Formal Methods in System Design 43(1):61-92, Springer. 2013.
-- Taolue Chen, Tingting Han, Marta Z. Kwiatkowska. On the complexity of model checking interval-valued discrete time Markov chains. Information Processing Letters 113(7): 210-216, 2013.
-- Taolue Chen, Marco Diciolla, Marta Z. Kwiatkowska, and Alexandru Mereacre. Verification of linear duration properties over continuous-time Markov chains. ACM Transaction on Computational Logic 14(4): 33, 2013.
-- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, David Parker, Aistis Simaitis. PRISM-games: A Model Checker for Stochastic Multi-Player Games. TACAS 2013, Lecture Notes in Computer Science 7795, pp. 185-191, Springer, 2013.
+- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, David Parker, Aistis Simaitis. [Automatic Verification of Competitive Stochastic Systems](pub-papers/fmsd13.pdf). Formal Methods in System Design 43(1):61-92, Springer. 2013.
+- Taolue Chen, Tingting Han, Marta Z. Kwiatkowska. [On the complexity of model checking interval-valued discrete time Markov chains](pub-papers/ipl13.pdf). Information Processing Letters 113(7): 210-216, 2013.
+- Taolue Chen, Marco Diciolla, Marta Z. Kwiatkowska, and Alexandru Mereacre. [Verification of linear duration properties over continuous-time Markov chains](pub-papers/tocl.pdf). ACM Transaction on Computational Logic 14(4): 33, 2013.
+- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, David Parker, Aistis Simaitis. [PRISM-games: A Model Checker for Stochastic Multi-Player Games](pub-papers/tacas13.pdf). TACAS 2013, LNCS 7795, pp. 185-191, Springer, 2013.
 - Taolue Chen, Marco Diciolla, Marta Z. Kwiatkowska, Alexandru Mereacre. [A Simulink Hybrid Heart Model for Quantitative Verification of Cardiac Pacemakers](pub-papers/hscc13.pdf). HSCC'13, pp.131-136, ACM, 2013. 
-- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, Aistis Simaitis, Clemens Wiltsche. On Stochastic Games with Multiple Objectives. MFCS 2013, Lecture Notes in Computer Science 8087, pp. 266-277, Springer, 2013.
-- Taolue Chen, Marta Z. Kwiatkowska, Aistis Simaitis, Clemens Wiltsche. Synthesis for Multi-objective Stochastic Games: An Application to Autonomous Urban Driving. QEST 2013, Lecture Notes in Computer Science 8054, pp. 322-337, Springer, 2013.
-- Taolue Chen, Ernst Moritz Hahn, Tingting Han, Marta Kwiatkowska, Hongyang Qu, Lijun Zhang. Model Repair for Markov Decision Processes. TASE'13, pp. 85-92, IEEE Press, 2013. 
+- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, Aistis Simaitis, Clemens Wiltsche. [On Stochastic Games with Multiple Objectives](pub-papers/mfcs13.pdf). MFCS 2013, LNCS 8087, pp. 266-277, Springer, 2013.
+- Taolue Chen, Marta Z. Kwiatkowska, Aistis Simaitis, Clemens Wiltsche. [Synthesis for Multi-objective Stochastic Games: An Application to Autonomous Urban Driving](pub-papers/qest13.pdf). QEST 2013, Lecture Notes in Computer Science 8054, pp. 322-337, Springer, 2013.
+- Taolue Chen, Ernst Moritz Hahn, Tingting Han, Marta Kwiatkowska, Hongyang Qu, Lijun Zhang. [Model Repair for Markov Decision Processes](pub-papers/tase13.pdf). TASE'13, pp. 85-92, IEEE Press, 2013. 
 - Tomas Brazdil, Taolue Chen, Vojtech Forejt, Petr Novotny, Aistis Simaitis. [Solvency Markov Decision Processes with Interest](pub-papers/fsttcs13.pdf). FSTTCS'13, LIPIcs volume 24, pages 487-499, 2013.
 
 ### 2012
