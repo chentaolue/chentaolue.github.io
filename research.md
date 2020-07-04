@@ -138,7 +138,7 @@ Van Glabbeek presented the linear time–branching time spectrum of behavioural 
 - Luca Aceto, Taolue Chen, Anna Ingolfsdottir, Bas Luttik and Jaco van de Pol. On the Axiomatizability of Priority II. TCS. 412(28): 3035-3044, 2011.
 - Luca Aceto, Taolue Chen, Wan Fokkink and Anna Ingolfsdottir. On the Axiomatizability of Priority. Mathematical Structure in Computer Science 18(1): 5-28, Cambridge University Press, 2008. (Conference version appeared in ICALP'06).
 
-- #### Prefix iteration
+#### Prefix iteration
 
 - Taolue Chen and Jian Lu. Complete Axiomatization for Divergent-sensitive Bisimulations in Basic Process Algebra with Prefix Iteration. The First International Conference on Foundations of Informatics, Computing and Software (FICS'08). Electronic Notes in Theoretical Computer Science 212: 55-70. Elsevier. 
 - Taolue Chen, Tingting Han and Jian Lu. On the Complete Axiomatization for Prefix Iteration modulo Observation Congruence. Acta Cybernetica: 17(3), 2006.
