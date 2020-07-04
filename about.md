@@ -23,5 +23,5 @@ I am a computer scientist and applied mathematician working in
 I also have general interests in Algorithms and Computational Complexity, or Mathematics broadly related to Computer Science. 
 
 
-Please check [here](#research) for a brief summary, and [DBLP](https://dblp.uni-trier.de/pers/c/Chen:Taolue.html), [Google Scholar](https://scholar.google.com/citations?user=Qv_-WU4AAAAJ&hl=en&oi=ao) for publications.
+Please check [here](#research) for a brief summary, and [DBLP](https://dblp.uni-trier.de/pers/c/Chen:Taolue.html), [Google Scholar](https://scholar.google.com/citations?user=Qv_-WU4AAAAJ&hl=en&oi=ao), or [here](#publications) for selected publications.
 
