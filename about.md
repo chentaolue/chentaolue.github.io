@@ -14,7 +14,9 @@
 [University Official profile](https://www.surrey.ac.uk/people/taolue-chen)
 
 
-I am working broadly in Verification, Program analysis, Software security, Software Engineering, Stochastic Modelling, Machine Learning, Data Science and Artificial Inetelligence. I also have general interests in Algorithms and Computational Complexity, or Mathematics broadly related to Computer Science.
+
+
+I am a computer scientist and applied mathematician working broadly in Verification, Program analysis, Software security, Software Engineering, Stochastic Modelling, Machine Learning, Data Science and Artificial Inetelligence. I also have general interests in Algorithms and Computational Complexity, or Mathematics broadly related to Computer Science. Please check the [research](#research) page.
 
 [DBLP](https://dblp.uni-trier.de/pers/c/Chen:Taolue.html), [Google Scholar](https://scholar.google.com/citations?user=Qv_-WU4AAAAJ&hl=en&oi=ao)
 
