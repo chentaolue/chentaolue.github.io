@@ -1,10 +1,10 @@
 ### <ins>Probabilistic verification</ins>
 
-- #### Verification of stochastic games
+#### <span style="color:blue">Verification of stochastic games</span>
 
-- #### Verification of continuous-time Markov models
+#### Verification of continuous-time Markov models
 
-- #### Perturbation analysis and robust verification
+#### Perturbation analysis and robust verification
 We identify discrepancies between a stochastic model used in probabilistic verification and the real-world system it represents when the model is built from statistical data. The issue, which is was overlooked for many years, is that a tiny but nontrivial change to model quantities may lead to misleading or even invalid verification results. We present rigours, mathematical formulation of the problem, with important steps towards a systematic solution. Empirical studies show that the novel notion of asymptotic perturbation bounds can accurately estimate maximum variations of verification results induced by model perturbations.
 
 ##### Selected papers
