@@ -11,7 +11,7 @@
 
 **Postal address**: Department of Computer Science, University of Surrey, Guildford, Surrey, GU2 7XH, United Kingdom
 
-[University Official profile](https://www.surrey.ac.uk/people/taolue-chen)
+[University Official Profile](https://www.surrey.ac.uk/people/taolue-chen)
 
 
 <p>&nbsp;</p>
