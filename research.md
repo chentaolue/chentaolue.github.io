@@ -17,7 +17,7 @@ We identify discrepancies between a stochastic model used in probabilistic verif
 
 ### <ins>Program analysis and constraint solving</ins>
 
-- #### String constraint solving
+#### String constraint solving
 String constraint solving is important in a wide range of areas, e.g., program analysis and web security. Previous studies either provide rather fragmented theoretical results on its decidability/complexity, or practical algorithms without completeness guarantees. We identify novel semantical---as opposed to previously syntactic---conditions for string constraints which entail decidability, providing effective decision procedures with detailed complexity analysis, and importantly, efficient implementation as a new string solver Ostrich. The experiments demonstrate the efficacy of the new solver against other competitive solvers. In contrast to previous work, the solver achieves efficiency but without sacrificing theoretical guarantees. 
 
 ##### Selected papers:
@@ -26,16 +26,16 @@ String constraint solving is important in a wide range of areas, e.g., program a
 
 **Tools**: [Ostrich](https://github.com/pruemmer/ostrich)
 
-- #### Separation logic
+#### Separation logic
 - Chong Gao, Taolue Chen, Zhilin Wu. Separation Logic with Linearly Compositional Inductive Predicates and Set Data Constraints. 45th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM), LNCS 11,376, 206-220, Springer, 2019.  
 - Taolue Chen, Fu Song, and Zhilin Wu. Tractability of Separation Logic with Inductive Definitions: Beyond Lists. 28th International Conference on Concurrency Theory (CONCUR'17),  LIPIcs 85, 37:1-37:17, 2017.
 - Zhaowei Xu, Taolue Chen, Zhilin Wu. Satisfiability of Compositional Separation Logic with Tree Predicates and Data Constraints. The 26th International Conference on Automated Deduction (CADE-26). LNCS 10395, pp. 509-527, 2017.
 - Xincai Gu, Taolue Chen, and Zhilin Wu. A complete decision procedure for linearly compositional separation logic with data constraints. IJCAR’16, LNCS 9706, pp. 532-549, 2016.
 
-- #### Side-channel attacks
+#### Side-channel attacks
 - Pengfei Gao, Hongyi Xie, Jun Zhang, Fu Song, Taolue Chen. Quantitative Verification of Masked Arithmetic Programs against Side-Channel Attacks. TACAS'19. LNCS 11,427. Springer. 2019.
  
-- #### Android Multitasking Mechanism
+#### Android Multitasking Mechanism
 We propose Android Stack Machine (ASM), a formal model to capture key mechanisms of Android multi-tasking such as activities, back stacks, launch modes, as well as task affinities. The model is based on pushdown systems with multiple stacks, and focuses on the evolution of the back stack of the Android system when interacting with activities carrying specific launch modes and task affinities. For formal analysis, we study the reachability problem of ASM. While the general problem is shown to be undecidable, we identify expressive fragments for which various verification techniques for pushdown systems or their extensions are harnessed to show decidability of the problem.
 
 - Jinlong He, Taolue Chen, Ping Wang, Zhilin Wu, Jun Yan. Android Multitasking Mechanism: Formal Semantics and Static Analysis of Apps. APLAS’19, 2019. 
@@ -43,7 +43,7 @@ Taolue Chen, Jinlong He, Fu Song, Guozhen Wang, Zhilin Wu, and Jun Yan. Android 
 
 ### <ins>Software engineering</ins>
 
-- #### Automatic Detection and Repair Recommendation of Directive Defects in Java API Documentation 
+#### Automatic Detection and Repair Recommendation of Directive Defects in Java API Documentation 
 APIs represent key tools for software developers. Unfortunately, API providers tend to release incomplete or inconsistent API documentation, which deviates from the actual API implementation. This paper is significant because it is the first time that the issue of inconsistency between API code and its documentation was formally investigated, with a novel method---with tool implementation---to automatically detect and repair defects from API documents. The empirical evaluation shows that the approach and the associated tool are able to find confirmed defects of documents for JDK 1.8 APIs and Android 7.0.
 
 ##### Selected papers:
@@ -52,14 +52,14 @@ APIs represent key tools for software developers. Unfortunately, API providers t
 - Yu Zhou, Xin Yan, Taolue Chen, Sebastiano Panichella, Harald Gall. DRONE: A Tool to Detect and Repair Directive Defects in Java APIs Documentation. ICSE’19, 
 **Tool**: [DRONE](https://spanichella.github.io/tools.html#drone-tool), and a [demo video](https://youtu.be/NDPXiapxoMk)
 
-- #### Code recommendation
+#### Code recommendation
 
 - Yu Zhou, Yanqi Su, Taolue Chen, Zhiqiu Huang, Harald Gall, Sebastiano Panichella. [User Review-Based Change File Localization for Mobile Applications](pub-papers/tse20.pdf). IEEE Trans. on Software Eng.
 
-- #### Comments generation
+#### Comments generation
 Code comments are crucial to program comprehension. We propose a novel approach ContextCC to automatically generate concise comments for Java methods based on neural networks, leveraging techniques of program analysis and natural language processing.  
 
-- #### User review analysis
+#### User review analysis
 
 ### <ins>Verification meets AI</ins>
 
@@ -72,7 +72,7 @@ Code comments are crucial to program comprehension. We propose a novel approach 
 - Hengjun Zhao, Xia Zeng, Taolue Chen, Zhimin Liu. Synthesizing Barrier Certificates Using Neural Networks. HSCC'20. To appear. 
 
 ### <ins> Axiomatisation of process algebra</ins>
-- #### Semantics in the linear time–branching time spectrum
+#### Semantics in the linear time–branching time spectrum
 
 Van Glabbeek presented the linear time–branching time spectrum of behavioural semantics. He studied these semantics in the setting of the basic process algebra BCCSP, and gave finite, sound and ground-complete, axiomatisations for most of these semantics. Groote proved for some of van Glabbeek’s axiomatisations that they are ω-complete, meaning that an equation can be derived if (and only if) all of its closed instantiations can be derived. We settle the remaining open questions for all the semantics in the linear time–branching time spectrum, either positively by giving a finite sound and ground-complete axiomatisation that is ω-complete, or negatively by proving that such a finite basis for the equational theory does not exist. 
 
@@ -87,7 +87,7 @@ Van Glabbeek presented the linear time–branching time spectrum of behavioural 
 - Taolue Chen and Wan Fokkink. On Finite Alphabets and Infinite Bases III: Simulation. 17th Conference on Concurrency Theory (CONCUR'06), Lecture Notes in Computer Science, Springer, 2006.
 - Taolue Chen, Wan Fokkink and Sumit Nain. On Finite Alphabets and Infinite Bases II: Completed and Ready Simulation. 9th Conference on Foundations of Software Science and Computation Structures (FoSSaCS'06), Lecture Notes in Computer Science 3921, Springer, 2006.
 
-- #### Priority operator
+#### Priority operator
 
 - Luca Aceto, Taolue Chen, Anna Ingolfsdottir, Bas Luttik and Jaco van de Pol. On the Axiomatizability of Priority II. TCS. 412(28): 3035-3044, 2011.
 - Luca Aceto, Taolue Chen, Wan Fokkink and Anna Ingolfsdottir. On the Axiomatizability of Priority. Mathematical Structure in Computer Science 18(1): 5-28, Cambridge University Press, 2008. (Conference version appeared in ICALP'06).
