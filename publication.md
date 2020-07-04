@@ -1,15 +1,15 @@
 ## Selected Publication
 
 ### To appear
-- Yu Zhou, Yanqi Su, Taolue Chen, Zhiqiu Huang, Harald Gall, Sebastiano Panichella. User Review-Based Change File Localization for Mobile Applications. Accepted by IEEE Trans. on Software Eng. To appear.
+- Yu Zhou, Yanqi Su, Taolue Chen, Zhiqiu Huang, Harald Gall, Sebastiano Panichella. User Review-Based Change File Localization for Mobile Applications. Accepted by IEEE Trans. on Software Eng.
 
 ### 2020
-- Yu Zhou, Tingting Han, Taolue Chen, Shiqi Zhou. Probabilistic analysis of QoS-aware service composition with explicit environment models. IET Software: 59-71, 2020.
-- Hengjun Zhao, Xia Zeng, Taolue Chen, Zhimin Liu. Synthesizing Barrier Certificates Using Neural Networks. HSCC'20:25:1-25:11.
+- Yu Zhou, Tingting Han, Taolue Chen, Shiqi Zhou. [Probabilistic analysis of QoS-aware service composition with explicit environment models](pub-papers/IET20.pdf). IET Software: 59-71, 2020.
+- Hengjun Zhao, Xia Zeng, Taolue Chen, Zhimin Liu. [Synthesizing Barrier Certificates Using Neural Networks](pub-papers/HSCC20.pdf). HSCC'20:25:1-25:11.
 
 ### 2019
 - Giuseppe Primiero, Franco Raimondi, Taolue Chen. A theory of change for prioritised resilient and evolvable software systems. Synthese, 2019. Springer.
-- Yu Zhou, Xin Yan, Wenhua Yang, Taolue Chen, Zhiqiu Huang. Augmenting Java method comments generation with context information based on neural networks. The Journal of Systems and Software  156: 328-340, 2019.
+- Yu Zhou, Xin Yan, Wenhua Yang, Taolue Chen, Zhiqiu Huang. [Augmenting Java method comments generation with context information based on neural networks](pub-papers/jss.pdf). The Journal of Systems and Software  156: 328-340, 2019.
 - Yedi Zhang, Fu Song, Taolue Chen. Making Agents Abilities Explicit. IEEE Access 7(1), 101,804-101,819, 2019.
 - Taolue Chen, Matthew Hague, Anthony Lin, Philipp Ruemmer, Zhilin Wu. Decision Procedures for Path Feasibility of String-Manipulating Programs with Complex Operations. POPL'19. PACMPL 3(POPL): 49:1-49:30, 2019.
 - Jinlong He, Taolue Chen, Ping Wang, Zhilin Wu, Jun Yan. Android Multitasking Mechanism: Formal Semantics and Static Analysis of Apps. APLAS19, LNCS11893, pp. 291-312, 2019. 
