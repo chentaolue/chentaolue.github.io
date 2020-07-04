@@ -1,8 +1,49 @@
 ### <ins>Probabilistic verification</ins>
 
-#### <span style="color:blue">Verification of stochastic games</span>
+#### <span style="color:blue"> Verification of stochastic games</span>
+
+We present automatic verification techniques for the modelling and analysis of probabilistic systems that incorporate competitive behaviour. These systems are modelled as turn-based stochastic multi-player games, in which the players can either collaborate or compete in order to achieve a particular goal. 
+
+##### Selected papers:
+
+- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, David Parker, Aistis Simaitis. Automatic Verification of Competitive Stochastic Systems. Formal Methods in System Design 43(1):61-92, Springer. 2013. (The conference version was presented at TACAS'12.)
+
+- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, Aistis Simaitis, Clemens Wiltsche. On Stochastic Games with Multiple Objectives. MFCS 2013, Lecture Notes in Computer Science 8087, pp. 266-277, Springer, 2013.
+
+- Taolue Chen, Marta Z. Kwiatkowska, Aistis Simaitis, Clemens Wiltsche. Synthesis for Multi-objective Stochastic Games: An Application to Autonomous Urban Driving. QEST 2013, Lecture Notes in Computer Science 8054, pp. 322-337, Springer, 2013.
+
+- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, David Parker, Aistis Simaitis. PRISM-games: A Model Checker for Stochastic Multi-Player Games. TACAS 2013, Lecture Notes in Computer Science 7795, pp. 185-191, Springer, 2013.
+
+- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, Aistis Simaitis, Ashutosh Trivedi, Michael Ummels. Playing Stochastic Games Precisely. CONCUR'12, Lecture Notes in Computer Science 7454, pp. 348-363, Springer, 2012.
+
+- Taolue Chen, Marta Kwiatkowska, David Parker and Aistis Simaitis. Verifying Team Formation Protocols with Probabilistic Model Checking. CLIMA XII, Lecture Notes in Computer Science 6814, pp. 190-207, Springer, 2011.
+
+
 
 #### Verification of continuous-time Markov models
+
+We study the verification of finite continuous-time Markov chain against various linear real-time specification including timed automaton, metric temporal logics, linear duratioinal properties. On a more practical side, we carry out quantitative verification of implantable cardiac pacemakers.
+
+##### Selected papers:
+
+ - Taolue Chen, Marco Diciolla, Marta Z. Kwiatkowska, and Alexandru Mereacre. Verification of linear duration properties over continuous-time Markov chains. ACM Transaction on Computational Logic 14(4): 33, 2013. (The conference version was presented at HSCC'12.)
+ 
+ - Taolue Chen, Marco Diciolla, Marta Z. Kwiatkowska, Alexandru Mereacre. Quantitative Verification of Implantable Cardiac Pacemakers over Hybrid Heart Models. Information and Computation 236: 87-101, 2014. (The conference versions were presented at HSCC'13 and RTSS'12.)
+ 
+
+- Taolue Chen, Marco Diciolla, Marta Kwiatkowska and Alexandru Mereacre. Time-Bounded Verification of CTMCs Against Real-Time Specifications. FORMATS'11, Lecture Notes in Computer Science 6919, pp. 26-42, Springer, 2011.
+
+
+
+
+- Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Model Checking of Continuous-Time Markov Chains Against Timed Automata Specifications. Logical Methods in Computer Science, 7(1-2):1-34, 2011. (The conference version was presented in LICS'09.)
+
+- Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Observing Continuous-Time MDPs by 1-Clock Timed Automata. RP'11, Lecture Notes in Computer Science 6945, pp. 2-25, Spriner, 2011.
+
+- Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Reachability Probabilities in Markovian Timed Automata. CDC'11, pp. 7075-7080, IEEE Press, 2011.
+
+  - Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. LTL Model Checking of Time-Inhomogeneous Markov Chains. ATVA'09, Lecture Notes in Computer Science 5799, pp. 104-119, Springer, 2009.
+
 
 #### Perturbation analysis and robust verification
 We identify discrepancies between a stochastic model used in probabilistic verification and the real-world system it represents when the model is built from statistical data. The issue, which is was overlooked for many years, is that a tiny but nontrivial change to model quantities may lead to misleading or even invalid verification results. We present rigours, mathematical formulation of the problem, with important steps towards a systematic solution. Empirical studies show that the novel notion of asymptotic perturbation bounds can accurately estimate maximum variations of verification results induced by model perturbations.
@@ -39,7 +80,7 @@ String constraint solving is important in a wide range of areas, e.g., program a
 We propose Android Stack Machine (ASM), a formal model to capture key mechanisms of Android multi-tasking such as activities, back stacks, launch modes, as well as task affinities. The model is based on pushdown systems with multiple stacks, and focuses on the evolution of the back stack of the Android system when interacting with activities carrying specific launch modes and task affinities. For formal analysis, we study the reachability problem of ASM. While the general problem is shown to be undecidable, we identify expressive fragments for which various verification techniques for pushdown systems or their extensions are harnessed to show decidability of the problem.
 
 - Jinlong He, Taolue Chen, Ping Wang, Zhilin Wu, Jun Yan. Android Multitasking Mechanism: Formal Semantics and Static Analysis of Apps. APLAS’19, 2019. 
-Taolue Chen, Jinlong He, Fu Song, Guozhen Wang, Zhilin Wu, and Jun Yan. Android Stack Machine. 30th International Conference on Computer Aided Verification (CAV'18). LNCS 10,982, 487-504, 2018.
+- Taolue Chen, Jinlong He, Fu Song, Guozhen Wang, Zhilin Wu, and Jun Yan. Android Stack Machine. 30th International Conference on Computer Aided Verification (CAV'18). LNCS 10,982, 487-504, 2018.
 
 ### <ins>Software engineering</ins>
 
@@ -54,12 +95,17 @@ APIs represent key tools for software developers. Unfortunately, API providers t
 
 #### Code recommendation
 
-- Yu Zhou, Yanqi Su, Taolue Chen, Zhiqiu Huang, Harald Gall, Sebastiano Panichella. [User Review-Based Change File Localization for Mobile Applications](pub-papers/tse20.pdf). IEEE Trans. on Software Eng.
+
 
 #### Comments generation
 Code comments are crucial to program comprehension. We propose a novel approach ContextCC to automatically generate concise comments for Java methods based on neural networks, leveraging techniques of program analysis and natural language processing.  
 
+##### Selected papers:
+
 #### User review analysis
+
+- Yu Zhou, Yanqi Su, Taolue Chen, Zhiqiu Huang, Harald Gall, Sebastiano Panichella. [User Review-Based Change File Localization for Mobile Applications](pub-papers/tse20.pdf). IEEE Trans. on Software Eng.
+
 
 ### <ins>Verification meets AI</ins>
 
