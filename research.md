@@ -42,7 +42,8 @@ We propose Android Stack Machine (ASM), a formal model to capture key mechanisms
 Taolue Chen, Jinlong He, Fu Song, Guozhen Wang, Zhilin Wu, and Jun Yan. Android Stack Machine. 30th International Conference on Computer Aided Verification (CAV'18). LNCS 10,982, 487-504, 2018.
 
 ### Software engineering
-Automatic Detection and Repair Recommendation of Directive Defects in Java API Documentation 
+
+#### Automatic Detection and Repair Recommendation of Directive Defects in Java API Documentation 
 APIs represent key tools for software developers. Unfortunately, API providers tend to release incomplete or inconsistent API documentation, which deviates from the actual API implementation. This paper is significant because it is the first time that the issue of inconsistency between API code and its documentation was formally investigated, with a novel method---with tool implementation---to automatically detect and repair defects from API documents. The empirical evaluation shows that the approach and the associated tool are able to find confirmed defects of documents for JDK 1.8 APIs and Android 7.0.
 
 ##### Selected papers:
@@ -53,11 +54,12 @@ APIs represent key tools for software developers. Unfortunately, API providers t
 
 #### Code recommendation
 
+- Yu Zhou, Yanqi Su, Taolue Chen, Zhiqiu Huang, Harald Gall, Sebastiano Panichella. [User Review-Based Change File Localization for Mobile Applications](pub-papers/tse20.pdf). IEEE Trans. on Software Eng.
 
 #### Comments generation
 Code comments are crucial to program comprehension. We propose a novel approach ContextCC to automatically generate concise comments for Java methods based on neural networks, leveraging techniques of program analysis and natural language processing.  
 
-### User review analysis
+#### User review analysis
 
 ### Verification meets AI
 
