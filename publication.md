@@ -11,7 +11,7 @@
 - Giuseppe Primiero, Franco Raimondi, Taolue Chen. [A theory of change for prioritised resilient and evolvable software systems](pub-papers/Synthese.pdf). Synthese, 2019. Springer.
 - Yu Zhou, Xin Yan, Wenhua Yang, Taolue Chen, Zhiqiu Huang. [Augmenting Java method comments generation with context information based on neural networks](pub-papers/jss-19.pdf). The Journal of Systems and Software  156: 328-340, 2019.
 - Yedi Zhang, Fu Song, Taolue Chen. [Making Agents Abilities Explicit](pub-papers/access19.pdf). IEEE Access 7(1), 101,804-101,819, 2019.
-- Taolue Chen, Matthew Hague, Anthony Lin, Philipp Ruemmer, Zhilin Wu. Decision Procedures for Path Feasibility of String-Manipulating Programs with Complex Operations. POPL'19. PACMPL 3(POPL): 49:1-49:30, 2019.
+- Taolue Chen, Matthew Hague, Anthony Lin, Philipp Ruemmer, Zhilin Wu. [Decision Procedures for Path Feasibility of String-Manipulating Programs with Complex Operations](pub-papers/popl19.pdf). POPL'19. PACMPL 3(POPL): 49:1-49:30, 2019.
 - Jinlong He, Taolue Chen, Ping Wang, Zhilin Wu, Jun Yan. [Android Multitasking Mechanism: Formal Semantics and Static Analysis of Apps](pub-papers/aplas19.pdf). APLAS19, LNCS11893, pp. 291-312, 2019. 
 - Chong Gao, Taolue Chen, Zhilin Wu. [Separation Logic with Linearly Compositional Inductive Predicates and Set Data Constraints](pub-papers/sofsem19.pdf). 45th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM), LNCS 11,376, 206-220, Springer, 2019.  
 - Yu Zhou, Xin Yan, Taolue Chen, Sebastiano Panichella, Harald Gall. [DRONE: A Tool to Detect and Repair Directive Defects in Java APIs Documentation](pub-papers/icsedemo19.pdf). ICSE19, Tool Demo. 
@@ -27,20 +27,20 @@
 - Yu Zhou, Changzhi Wang, Xin Yan, Taolue Chen, Sebastiano Panichella, Harald Gall. [Automatic Detection and Repair Recommendation of Directive Defects in Java API Documentation](pub-papers/tse18.pdf). Accepted by IEEE Trans. Software Eng.  
 
 ### 2017
-- Barnaby Martin, Franco Raimondi, Taolue Chen, and Jos Martin. [The packing chromatic number of the infinite square lattice is between 13 and 15](pub-papers/MRCM17). Discrete Applied Mathematics 225:136-142, 2017.
-- Yu Zhou, Yanxiang Tong, Taolue Chen, and Jin Han. [Augmenting Bug Localization with Part-of-Speech and Invocation](pub-papers/ZTCH17). International Journal of Software Engineering and Knowledge Engineering. 27(6): 925C949. 2017.
-- Taolue Chen, Fu Song, and Zhilin Wu. [Formal Reasoning About Infinite Data Values: An Ongoing Quest](pub-papers/CSW16_survey) (Invited survey). The 2nd International School on Engineering Trustworthy Software Systems (SETTS'16). LNCS 10,215, pp.195-257, 2017.
-- Taolue Chen, Fu Song, and Zhilin Wu. Model Checking Pushdown Epistemic Game Structures. 19th International Conference on Formal Engineering Methods (ICFEM'17). LNCS 10610, pp. 36-53, 2017
-- Taolue Chen, Fu Song, and Zhilin Wu. Tractability of Separation Logic with Inductive Definitions: Beyond Lists. 28th International Conference on Concurrency Theory (CONCUR'17),  LIPIcs 85, 37:1-37:17, 2017.
-- Zhaowei Xu, Taolue Chen, Zhilin Wu. Satisfiability of Compositional Separation Logic with Tree Predicates and Data Constraints. The 26th International Conference on Automated Deduction (CADE-26). LNCS 10395, pp. 509-527, 2017.
-- Yu Zhou, Ruihang Gu, Taolue Chen, Zhiqiu Huang, Sebastiano Panichella, and Harald Gall. Analyzing APIs Documentation and Code Analyzing APIs Documentation and Code to Detect Directive Defects. ICSE'17, 2017, IEEE/ACM.
-- Guoxin Su, Taolue Chen, Yuan Feng, and David S. Rosenblum.  ProEva: Runtime Proactive Performance Evaluation Based on Continuous-Time Markov Chains. ICSE'17, 2017, IEEE/ACM.
+- Barnaby Martin, Franco Raimondi, Taolue Chen, and Jos Martin. [The packing chromatic number of the infinite square lattice is between 13 and 15](pub-papers/MRCM17.pdf). Discrete Applied Mathematics 225:136-142, 2017.
+- Yu Zhou, Yanxiang Tong, Taolue Chen, and Jin Han. [Augmenting Bug Localization with Part-of-Speech and Invocation](pub-papers/ZTCH17.pdf). International Journal of Software Engineering and Knowledge Engineering. 27(6): 925C949. 2017.
+- Taolue Chen, Fu Song, and Zhilin Wu. [Formal Reasoning About Infinite Data Values: An Ongoing Quest](pub-papers/CSW16_survey.pdf) (Invited survey). The 2nd International School on Engineering Trustworthy Software Systems (SETTS'16). LNCS 10,215, pp.195-257, 2017.
+- Taolue Chen, Fu Song, and Zhilin Wu. [Model Checking Pushdown Epistemic Game Structures](pub-papers/ICFEM.pdf). 19th International Conference on Formal Engineering Methods (ICFEM'17). LNCS 10610, pp. 36-53, 2017
+- Taolue Chen, Fu Song, and Zhilin Wu. [Tractability of Separation Logic with Inductive Definitions: Beyond Lists](pub-papers/concur17.pdf). 28th International Conference on Concurrency Theory (CONCUR'17),  LIPIcs 85, 37:1-37:17, 2017.
+- Zhaowei Xu, Taolue Chen, Zhilin Wu. [Satisfiability of Compositional Separation Logic with Tree Predicates and Data Constraints](). The 26th International Conference on Automated Deduction (CADE-26). LNCS 10395, pp. 509-527, 2017.
+- Yu Zhou, Ruihang Gu, Taolue Chen, Zhiqiu Huang, Sebastiano Panichella, and Harald Gall. [Analyzing APIs Documentation and Code Analyzing APIs Documentation and Code to Detect Directive Defects](pub-papers/icse17-zhou.pdf). ICSE'17, 2017, IEEE/ACM.
+- Guoxin Su, Taolue Chen, Yuan Feng, and David S. Rosenblum. [ProEva: Runtime Proactive Performance Evaluation Based on Continuous-Time Markov Chains](pub-papers/icse17-su.pdf). ICSE'17, 2017, IEEE/ACM.
 - Giuseppe Primiero, Franco Raimondi, Taolue Chen, Rajagopal Nagarajan. A Proof-theoretic Trust and Reputation Model for VANET. S4CIP'17, EuroS&P Workshops, pp. 146-152, 2017
 
 ### 2016
-- Taolue Chen, Giuseppe Primiero, Franco Raimondi, Neha Rungta. A Computationally Grounded, Weighted Doxastic Logic. Studia Logica, 104(4):679-703, 2016.
-- Guoxin Su, Yuan Feng, Taolue Chen, and David S. Rosenblum. Perturbation Analysis of Stochastic Systems with Empirical Distribution Parameters: An Asymptotic Approach. IEEE Trans. Software Eng. 42(7): 623-639, 2016.
-- Taolue Chen, Fu Song, and Zhilin Wu. Verifying Pushdown Multi-Agent Systems against Strategy Logics. IJCAI16, pp. 180-186, AAAI Press, 2016. 
+- Taolue Chen, Giuseppe Primiero, Franco Raimondi, Neha Rungta. [A Computationally Grounded, Weighted Doxastic Logic](pub-papers/sl16.pdf). Studia Logica, 104(4):679-703, 2016.
+- Guoxin Su, Yuan Feng, Taolue Chen, and David S. Rosenblum. [Perturbation Analysis of Stochastic Systems with Empirical Distribution Parameters: An Asymptotic Approach](pub-papers/TSE16.pdf). IEEE Trans. Software Eng. 42(7): 623-639, 2016.
+- Taolue Chen, Fu Song, and Zhilin Wu. [Verifying Pushdown Multi-Agent Systems against Strategy Logics](pub-papers/ijcai16.pdf). IJCAI16, pp. 180-186, AAAI Press, 2016. 
 - Taolue Chen, Fu Song, and Zhilin Wu. Global Model Checking on Pushdown Multi-Agent Systems. AAAI16, pp. 2459-2465, AAAI Press, 2016. 
 - Xincai Gu, Taolue Chen, and Zhilin Wu. A complete decision procedure for linearly compositional separation logic with data constraints. IJCAR16, LNCS 9706, pp. 532-549, 2016. 
 - Taolue Chen, Tingting Han, Florian Kammller, Ibrahim Nemli, and Christian W. Probst. Model based analysis of insider threats. Cyber Incident 2016. Cyber Security and Protection of Digital Services 2016: 1-3. IEEE.
@@ -67,9 +67,9 @@
 - Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, David Parker, Aistis Simaitis. PRISM-games: A Model Checker for Stochastic Multi-Player Games. TACAS 2013, Lecture Notes in Computer Science 7795, pp. 185-191, Springer, 2013.
 - Taolue Chen, Marco Diciolla, Marta Z. Kwiatkowska, Alexandru Mereacre. [A Simulink Hybrid Heart Model for Quantitative Verification of Cardiac Pacemakers](pub-papers/hscc13.pdf). HSCC'13, pp.131-136, ACM, 2013. 
 - Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, Aistis Simaitis, Clemens Wiltsche. On Stochastic Games with Multiple Objectives. MFCS 2013, Lecture Notes in Computer Science 8087, pp. 266-277, Springer, 2013.
-Taolue Chen, Marta Z. Kwiatkowska, Aistis Simaitis, Clemens Wiltsche. Synthesis for Multi-objective Stochastic Games: An Application to Autonomous Urban Driving. QEST 2013, Lecture Notes in Computer Science 8054, pp. 322-337, Springer, 2013.
-Taolue Chen, Ernst Moritz Hahn, Tingting Han, Marta Kwiatkowska, Hongyang Qu, Lijun Zhang. Model Repair for Markov Decision Processes. TASE'13, pp. 85-92, IEEE Press, 2013. 
-Tomas Brazdil, Taolue Chen, Vojtech Forejt, Petr Novotny, Aistis Simaitis. Solvency Markov Decision Processes with Interest. FSTTCS'13, LIPIcs volume 24, pages 487-499, 2013.
+- Taolue Chen, Marta Z. Kwiatkowska, Aistis Simaitis, Clemens Wiltsche. Synthesis for Multi-objective Stochastic Games: An Application to Autonomous Urban Driving. QEST 2013, Lecture Notes in Computer Science 8054, pp. 322-337, Springer, 2013.
+- Taolue Chen, Ernst Moritz Hahn, Tingting Han, Marta Kwiatkowska, Hongyang Qu, Lijun Zhang. Model Repair for Markov Decision Processes. TASE'13, pp. 85-92, IEEE Press, 2013. 
+- Tomas Brazdil, Taolue Chen, Vojtech Forejt, Petr Novotny, Aistis Simaitis. [Solvency Markov Decision Processes with Interest](pub-papers/fsttcs13.pdf). FSTTCS'13, LIPIcs volume 24, pages 487-499, 2013.
 
 ### 2012
 - Taolue Chen, Chris Chilton, Bengt Jonsson, Marta Z. Kwiatkowska. A Compositional Specification Theory for Component Behaviours. ESOP'12, Lecture Notes in Computer Science 7211, pp. 148-168, Springer, 2012.
