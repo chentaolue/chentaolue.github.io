@@ -71,30 +71,30 @@
 - Tomas Brazdil, Taolue Chen, Vojtech Forejt, Petr Novotny, Aistis Simaitis. [Solvency Markov Decision Processes with Interest](pub-papers/fsttcs13.pdf). FSTTCS'13, LIPIcs volume 24, pages 487-499, 2013.
 
 ### 2012
-- Taolue Chen, Chris Chilton, Bengt Jonsson, Marta Z. Kwiatkowska. A Compositional Specification Theory for Component Behaviours. ESOP'12, Lecture Notes in Computer Science 7211, pp. 148-168, Springer, 2012.
+- Taolue Chen, Chris Chilton, Bengt Jonsson, Marta Z. Kwiatkowska. [A Compositional Specification Theory for Component Behaviours](pub-papers/ccjk12.pdf). ESOP'12, Lecture Notes in Computer Science 7211, pp. 148-168, Springer, 2012.
 - Taolue Chen, Marco Diciolla, Marta Z. Kwiatkowska, Alexandru Mereacre. [Verification of linear duration properties over continuous-time Markov chains](pub-papers/hscc12.pdf). HSCC'12, pp. 265-274, ACM, 2012.
-Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, David Parker, Aistis Simaitis. Automatic Verification of Competitive Stochastic Systems. TACAS'12, Lecture Notes in Computer Science 7214, pp. 315-330, Springer, 2012.
-Taolue Chen, Marco Diciolla, Marta Kwiatkowska, and Alexandru Mereacre. Quantitative Verification of Implantable Cardiac Pacemakers. RTSS 2012, pp. 263-272, IEEE Press, 2012. 
-Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, Aistis Simaitis, Ashutosh Trivedi, Michael Ummels. [Playing Stochastic Games Precisely](pub-papers/concur12.pdf). CONCUR'12, Lecture Notes in Computer Science 7454, pp. 348-363, Springer, 2012.
-Taolue Chen, Klaus Dräger, Stefan Kiefer. Model Checking Stochastic Branching Processes. MFCS'12, Lecture Notes in Computer Science 7464, pp. 271-282, Springer, 2012.
+- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, David Parker, Aistis Simaitis. [Automatic Verification of Competitive Stochastic Systems](pub-papers/tacas12.pdf). TACAS'12, LNCS 7214, pp. 315-330, Springer, 2012.
+- Taolue Chen, Marco Diciolla, Marta Kwiatkowska, and Alexandru Mereacre. [Quantitative Verification of Implantable Cardiac Pacemakers](pub-papers/rtss12.pdf). RTSS 2012, pp. 263-272, IEEE Press, 2012. 
+- Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, Aistis Simaitis, Ashutosh Trivedi, Michael Ummels. [Playing Stochastic Games Precisely](pub-papers/concur12.pdf). CONCUR'12, LNCS 7454, pp. 348-363, Springer, 2012.
+- Taolue Chen, Klaus Dräger, Stefan Kiefer. [Model Checking Stochastic Branching Processes](pub-papers/mfcs12.pdf). MFCS'12, LNCS 7464, pp. 271-282, Springer, 2012.
 
 ### 2011
 - Luca Aceto, Taolue Chen, Anna Ingolfsdottir, Bas Luttik and Jaco van de Pol. [On the Axiomatizability of Priority II](pub-papers/tcs2011.pdf). TCS. 412(28): 3035-3044, 2011.
 - Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. [Model Checking of Continuous-Time Markov Chains Against Timed Automata Specifications](pub-papers/lmcs2011.pdf). Logical Methods in Computer Science, 7(1-2):1-34, 2011.   
 - Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. [Reachability Probabilities in Markovian Timed Automata](pub-papers/cdc2011.pdf). CDC'11, pp. 7075-7080, IEEE Press, 2011. 
 - Taolue Chen, Marco Diciolla, Marta Kwiatkowska and Alexandru Mereacre. [Time-Bounded Verification of CTMCs Against Real-Time Specifications](pub-papers/cdkm11.pdf). FORMATS'11, Lecture Notes in Computer Science 6919, pp. 26-42, Springer, 2011. 
-- Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Observing Continuous-Time MDPs by 1-Clock Timed Automata](pub-papers/chkm11_rp.pdf). RP'11, Lecture Notes in Computer Science 6945, pp. 2-25, Spriner, 2011. 
-- Taolue Chen, Marta Kwiatkowska, David Parker and Aistis Simaitis. [Verifying Team Formation Protocols with Probabilistic Model Checking](pub-papers/CLIMA11.pdf). CLIMA XII, Lecture Notes in Computer Science 6814, pp. 190-207, Springer, 2011. 
-- Benoit Barbot, Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. [Efficient CTMC Model Checking of Linear Real-Time Objectives](pub-papers/tacas11.pdf). TACAS'11, Lecture Notes in Computer Science 6605, pp. 128-142, Springer, 2011.
+- Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. [Observing Continuous-Time MDPs by 1-Clock Timed Automata](pub-papers/chkm11_rp.pdf). RP'11, Lecture Notes in Computer Science 6945, pp. 2-25, Spriner, 2011. 
+- Taolue Chen, Marta Kwiatkowska, David Parker and Aistis Simaitis. [Verifying Team Formation Protocols with Probabilistic Model Checking](pub-papers/CLIMA11.pdf). CLIMA XII, LNCS 6814, pp. 190-207, Springer, 2011. 
+- Benoit Barbot, Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. [Efficient CTMC Model Checking of Linear Real-Time Objectives](pub-papers/tacas11.pdf). TACAS'11, LNCS 6605, pp. 128-142, Springer, 2011.
 
 ### 2006-2010
-- Taolue Chen and Jian Lu. Towards Analysis of Semi-Markov Decision Processes. AICI'10, Lecture Notes in Computer Science 6319, pp. 41-48, Springer 2010.
+- Taolue Chen and Jian Lu. [Towards Analysis of Semi-Markov Decision Processes](pub-papers/AICI10.pdf). AICI'10, Lecture Notes in Computer Science 6319, pp. 41-48, Springer 2010.
 - Taolue Chen and Wan Fokkink. [The Saga of Finite Equational Bases over BCCSP](pub-papers/nvti.pdf). NVTI (Dutch Association for Theoretical Computer Science) Newsletter, 2010 (Invited contribution).
-- Taolue Chen, Tingting Han and Jian Lu. On Behavioral Metric for Probabilistic Systems: Definition and Approximation Algorithm. Journal of Computer & Mathematics with Application. Elsevier. 57(6):991-999, 2009.
+- Taolue Chen, Tingting Han and Jian Lu. [On Behavioral Metric for Probabilistic Systems: Definition and Approximation Algorithm](pub-papers/cam09.pdf). Journal of Computer & Mathematics with Application. Elsevier. 57(6):991-999, 2009.
 - Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. [LTL Model Checking of Time-Inhomogeneous Markov Chains](pub-papers/Atva09.pdf). ATVA'09, LNCS 5799, pp. 104-119, Springer, 2009.
-- Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Quantitative Model Checking of Continuous-Time Markov Chains Against Timed Automata Specifications. The 24th Annual IEEE Symposium on Logic in Computer Science (LICS'09), pp. 309-318, IEEE Press, 2009.
-- Taolue Chen, Wan Fokkink and Rob van Glabbeek. On Finite Bases for Weak Semantics: Failures versus Impossible Futures. 35th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM'09). LNCS 5404, pp. 167-180, Springer, 2009.
-- Jasper Berendsen, Taolue Chen and David. N. Jansen. Undecidability of Cost-Bounded Reachability in Priced Probabilistic Timed Automata. 6th Annual Conference of Theory and Applications of Models of Computation (TAMC'09), Lecture Notes in Computer Science 5532, pp. 128-137, Springer, 2009.
+- Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. [Quantitative Model Checking of Continuous-Time Markov Chains Against Timed Automata Specifications](pub-papers/lics09.pdf). The 24th Annual IEEE Symposium on Logic in Computer Science (LICS'09), pp. 309-318, IEEE Press, 2009.
+- Taolue Chen, Wan Fokkink and Rob van Glabbeek. [On Finite Bases for Weak Semantics: Failures versus Impossible Futures](pub-papers/Sofsem09.pdf). 35th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM'09). LNCS 5404, pp. 167-180, Springer, 2009.
+- Jasper Berendsen, Taolue Chen and David. N. Jansen. [Undecidability of Cost-Bounded Reachability in Priced Probabilistic Timed Automata](pub-papers/Tamc09.pdf). 6th Annual Conference of Theory and Applications of Models of Computation (TAMC'09), LNCS 5532, pp. 128-137, Springer, 2009.
 - Luca Aceto, Taolue Chen, Wan Fokkink and Anna Ingolfsdottir. [On the Axiomatizability of Priority](pub-papers/Mscs08.pdf). Mathematical Structure in Computer Science 18(1): 5-28, Cambridge University Press, 2008. 
 - Taolue Chen, Wan Fokkink, Bas Luttik and Sumit Nain. [On Finite Alphabets and Infinite Bases](pub-papers/Ic08.pdf). Information and Computation 206(5): 492-519, Elsevier, 2008. 
 - Taolue Chen, Wan Fokkink and Rob van Glabbeek. [Ready to Preorder: The Case of Weak Process Semantics](pub-papers/Ipl08.pdf). Information Processing Letters 109(2): 104-111, Elsevier, 2008.
