@@ -1,0 +1,2 @@
+- Data Structures and Algorithms (COM1029)
+- Data Science Principles and Practices (COMM054)
