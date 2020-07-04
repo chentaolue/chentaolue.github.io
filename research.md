@@ -49,7 +49,7 @@ APIs represent key tools for software developers. Unfortunately, API providers t
 
 - Yu Zhou, Changzhi Wang, Xin Yan, Taolue Chen, Sebastiano Panichella, Harald Gall. Automatic Detection and Repair Recommendation of Directive Defects in Java API Documentation. IEEE Trans. Software Eng.  (Conference version was presented in ICSE'17.)  
 - Yu Zhou, Xin Yan, Taolue Chen, Sebastiano Panichella, Harald Gall. DRONE: A Tool to Detect and Repair Directive Defects in Java APIs Documentation. ICSE’19, 
-DRONE, there is a demo video
+**Tool**: [DRONE](https://spanichella.github.io/tools.html#drone-tool), and a [demo video](https://youtu.be/NDPXiapxoMk)
 
 #### Code recommendation
 
