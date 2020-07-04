@@ -1,40 +1,42 @@
-## Probabilistic verification
+### Probabilistic verification
 
-### Verification of stochastic games
+#### Verification of stochastic games
 
-### Verification of continuous-time Markov models
+#### Verification of continuous-time Markov models
 Perturbation analysis and robust verification
 We identify discrepancies between a stochastic model used in probabilistic verification and the real-world system it represents when the model is built from statistical data. The issue, which is was overlooked for many years, is that a tiny but nontrivial change to model quantities may lead to misleading or even invalid verification results. We present rigours, mathematical formulation of the problem, with important steps towards a systematic solution. Empirical studies show that the novel notion of asymptotic perturbation bounds can accurately estimate maximum variations of verification results induced by model perturbations.
 
-#### Selected papers
+##### Selected papers
 
-Guoxin Su, Yuan Feng, Taolue Chen, and David S. Rosenblum. Perturbation Analysis of Stochastic Systems with Empirical Distribution Parameters: An Asymptotic Approach. IEEE Trans. Software Eng. 42(7): 623-639, 2016.
-Guoxin Su, Taolue Chen, Yuan Feng, and David S. Rosenblum.  ProEva: Runtime Proactive Performance Evaluation Based on Continuous-Time Markov Chains. ICSE'17, 2017, IEEE/ACM.
-Guoxin Su, Taolue Chen, Yuan Feng, David S. Rosenblum, and P. S. Thiagarajan. An Iterative Decision-Making Scheme for Markov Decision Processes and Its Application to Self-Adaptive Systems. FASE’16. LNCS 9633 pp. 269-286, 2016.
- Taolue Chen, Yuan Feng, David Rosenblum, Guoxin Su.  Perturbation Analysis in Verification of Discrete-Time Markov Chains. CONCUR’14, LNCS 8704, pp. 218-233, 2014. 
- Taolue Chen, Tingting Han, Marta Z. Kwiatkowska. On the complexity of model checking interval-valued discrete time Markov chains. Information Processing Letters 113(7): 210-216, 2013.
-Program analysis and constraint solving
-String constraint solving
+- Guoxin Su, Yuan Feng, Taolue Chen, and David S. Rosenblum. Perturbation Analysis of Stochastic Systems with Empirical Distribution Parameters: An Asymptotic Approach. IEEE Trans. Software Eng. 42(7): 623-639, 2016.
+- Guoxin Su, Taolue Chen, Yuan Feng, and David S. Rosenblum.  ProEva: Runtime Proactive Performance Evaluation Based on Continuous-Time Markov Chains. ICSE'17, 2017, IEEE/ACM.
+- Guoxin Su, Taolue Chen, Yuan Feng, David S. Rosenblum, and P. S. Thiagarajan. An Iterative Decision-Making Scheme for Markov Decision Processes and Its Application to Self-Adaptive Systems. FASE’16. LNCS 9633 pp. 269-286, 2016.
+- Taolue Chen, Yuan Feng, David Rosenblum, Guoxin Su.  Perturbation Analysis in Verification of Discrete-Time Markov Chains. CONCUR’14, LNCS 8704, pp. 218-233, 2014. 
+- Taolue Chen, Tingting Han, Marta Z. Kwiatkowska. On the complexity of model checking interval-valued discrete time Markov chains. Information Processing Letters 113(7): 210-216, 2013.
+
+### Program analysis and constraint solving
+
+#### String constraint solving
 String constraint solving is important in a wide range of areas, e.g., program analysis and web security. Previous studies either provide rather fragmented theoretical results on its decidability/complexity, or practical algorithms without completeness guarantees. We identify novel semantical---as opposed to previously syntactic---conditions for string constraints which entail decidability, providing effective decision procedures with detailed complexity analysis, and importantly, efficient implementation as a new string solver Ostrich. The experiments demonstrate the efficacy of the new solver against other competitive solvers. In contrast to previous work, the solver achieves efficiency but without sacrificing theoretical guarantees. 
 
-#### Selected papers:
+##### Selected papers:
 Taolue Chen, Matthew Hague, Anthony Lin, Philipp Ruemmer, Zhilin Wu. Decision Procedures for Path Feasibility of String-Manipulating Programs with Complex Operations. POPL'19. PACMPL 3(POPL): 49:1-49:30, 2019.
 Taolue Chen, Yan Chen, Matthew Hague, Anthony W. Lin, Zhilin Wu. What Is Decidable about String Constraints with the ReplaceAll Function. Proceedings of the ACM on Programming Languages, Vol. 2, No. POPL, Article 3. 2018.
 Tools: Ostrich
 
-### Separation logic
+#### Separation logic
 Chong Gao, Taolue Chen, Zhilin Wu. Separation Logic with Linearly Compositional Inductive Predicates and Set Data Constraints. 45th International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM), LNCS 11,376, 206-220, Springer, 2019.  
 Taolue Chen, Fu Song, and Zhilin Wu. Tractability of Separation Logic with Inductive Definitions: Beyond Lists. 28th International Conference on Concurrency Theory (CONCUR'17),  LIPIcs 85, 37:1-37:17, 2017.
 Zhaowei Xu, Taolue Chen, Zhilin Wu. Satisfiability of Compositional Separation Logic with Tree Predicates and Data Constraints. The 26th International Conference on Automated Deduction (CADE-26). LNCS 10395, pp. 509-527, 2017.
 Xincai Gu, Taolue Chen, and Zhilin Wu. A complete decision procedure for linearly compositional separation logic with data constraints. IJCAR’16, LNCS 9706, pp. 532-549, 2016.
 
-### Side-channel attacks
+#### Side-channel attacks
 Pengfei Gao, Hongyi Xie, Jun Zhang, Fu Song, Taolue Chen. Quantitative Verification of Masked Arithmetic Programs against Side-Channel Attacks. TACAS'19. LNCS 11,427. Springer. 2019.
  
-### Android Multitasking Mechanism
+#### Android Multitasking Mechanism
 We propose Android Stack Machine (ASM), a formal model to capture key mechanisms of Android multi-tasking such as activities, back stacks, launch modes, as well as task affinities. The model is based on pushdown systems with multiple stacks, and focuses on the evolution of the back stack of the Android system when interacting with activities carrying specific launch modes and task affinities. For formal analysis, we study the reachability problem of ASM. While the general problem is shown to be undecidable, we identify expressive fragments for which various verification techniques for pushdown systems or their extensions are harnessed to show decidability of the problem.
 
-Jinlong He, Taolue Chen, Ping Wang, Zhilin Wu, Jun Yan. Android Multitasking Mechanism: Formal Semantics and Static Analysis of Apps. APLAS’19, 2019. 
+- Jinlong He, Taolue Chen, Ping Wang, Zhilin Wu, Jun Yan. Android Multitasking Mechanism: Formal Semantics and Static Analysis of Apps. APLAS’19, 2019. 
 Taolue Chen, Jinlong He, Fu Song, Guozhen Wang, Zhilin Wu, and Jun Yan. Android Stack Machine. 30th International Conference on Computer Aided Verification (CAV'18). LNCS 10,982, 487-504, 2018.
 Software engineering
 Automatic Detection and Repair Recommendation of Directive Defects in Java API Documentation 
