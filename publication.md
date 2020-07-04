@@ -80,13 +80,13 @@ Taolue Chen, Vojtech Forejt, Marta Z. Kwiatkowska, Aistis Simaitis, Ashutosh Tri
 Taolue Chen, Klaus Dräger, Stefan Kiefer. Model Checking Stochastic Branching Processes. MFCS'12, Lecture Notes in Computer Science 7464, pp. 271-282, Springer, 2012.
 
 ### 2011
-Luca Aceto, Taolue Chen, Anna Ingolfsdottir, Bas Luttik and Jaco van de Pol. On the Axiomatizability of Priority II. TCS. 412(28): 3035-3044, 2011.
-Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Model Checking of Continuous-Time Markov Chains Against Timed Automata Specifications. Logical Methods in Computer Science, 7(1-2):1-34, 2011.   
-Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Reachability Probabilities in Markovian Timed Automata. CDC'11, pp. 7075-7080, IEEE Press, 2011. 
-Taolue Chen, Marco Diciolla, Marta Kwiatkowska and Alexandru Mereacre. Time-Bounded Verification of CTMCs Against Real-Time Specifications. FORMATS'11, Lecture Notes in Computer Science 6919, pp. 26-42, Springer, 2011. 
-Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Observing Continuous-Time MDPs by 1-Clock Timed Automata. RP'11, Lecture Notes in Computer Science 6945, pp. 2-25, Spriner, 2011. 
-Taolue Chen, Marta Kwiatkowska, David Parker and Aistis Simaitis. Verifying Team Formation Protocols with Probabilistic Model Checking. CLIMA XII, Lecture Notes in Computer Science 6814, pp. 190-207, Springer, 2011. 
-Benoit Barbot, Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Efficient CTMC Model Checking of Linear Real-Time Objectives. TACAS'11, Lecture Notes in Computer Science 6605, pp. 128-142, Springer, 2011.
+- Luca Aceto, Taolue Chen, Anna Ingolfsdottir, Bas Luttik and Jaco van de Pol. On the Axiomatizability of Priority II. TCS. 412(28): 3035-3044, 2011.
+- Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Model Checking of Continuous-Time Markov Chains Against Timed Automata Specifications. Logical Methods in Computer Science, 7(1-2):1-34, 2011.   
+- Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Reachability Probabilities in Markovian Timed Automata. CDC'11, pp. 7075-7080, IEEE Press, 2011. 
+- Taolue Chen, Marco Diciolla, Marta Kwiatkowska and Alexandru Mereacre. Time-Bounded Verification of CTMCs Against Real-Time Specifications. FORMATS'11, Lecture Notes in Computer Science 6919, pp. 26-42, Springer, 2011. 
+- Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Observing Continuous-Time MDPs by 1-Clock Timed Automata. RP'11, Lecture Notes in Computer Science 6945, pp. 2-25, Spriner, 2011. 
+- Taolue Chen, Marta Kwiatkowska, David Parker and Aistis Simaitis. Verifying Team Formation Protocols with Probabilistic Model Checking. CLIMA XII, Lecture Notes in Computer Science 6814, pp. 190-207, Springer, 2011. 
+- Benoit Barbot, Taolue Chen, Tingting Han, Joost-Pieter Katoen and Alexandru Mereacre. Efficient CTMC Model Checking of Linear Real-Time Objectives. TACAS'11, Lecture Notes in Computer Science 6605, pp. 128-142, Springer, 2011.
 
 ### 2010
 - Taolue Chen and Jian Lu. Towards Analysis of Semi-Markov Decision Processes. AICI'10, Lecture Notes in Computer Science 6319, pp. 41-48, Springer 2010.
