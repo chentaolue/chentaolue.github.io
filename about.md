@@ -12,3 +12,10 @@
 **Postal address**: Department of Computer Science, University of Surrey, Guildford, Surrey, GU2 7XH, United Kingdom
 
 [University Official profile](https://www.surrey.ac.uk/people/taolue-chen)
+
+
+I am a researcher working broadly in Verification, Program analysis, Software security, Software Engineering, Stochastic Modelling, Machine Learning, Data Science and Artificial Inetelligence. I also have general interests in Algorithms and Computational Complexity, or Mathematics broadly related to Computer Science.
+
+Publication, DBLP, Google Scholar
+
+Check here for some brief introductions
