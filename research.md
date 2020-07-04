@@ -73,6 +73,8 @@ String constraint solving is important in a wide range of areas, e.g., program a
 - Zhaowei Xu, Taolue Chen, Zhilin Wu. Satisfiability of Compositional Separation Logic with Tree Predicates and Data Constraints. The 26th International Conference on Automated Deduction (CADE-26). LNCS 10395, pp. 509-527, 2017.
 - Xincai Gu, Taolue Chen, and Zhilin Wu. A complete decision procedure for linearly compositional separation logic with data constraints. IJCAR’16, LNCS 9706, pp. 532-549, 2016.
 
+### <ins>Software security</ins>
+
 #### Side-channel attacks
 - Pengfei Gao, Hongyi Xie, Jun Zhang, Fu Song, Taolue Chen. Quantitative Verification of Masked Arithmetic Programs against Side-Channel Attacks. TACAS'19. LNCS 11,427. Springer. 2019.
  
