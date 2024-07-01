@@ -103,15 +103,15 @@
   
 <h2 class="mb-5">Research</h2>
     
-My research investigates a synergy of statistical, inductive approaches (represented by deep learning) and logical, deductive approaches (represented by constraint solving), and applys them 
-to solve a broad range of problems at the interface of Programming Language, Verification, Software Engineering and Machine Learning.  
+My research interest lies in neuro-symbolic software engineering, which is to investigate a synergy of statistical (aka data-driven), inductive approaches (represented by deep learning) and logical, deductive approaches (represented by constraint solving), and to apply them 
+to solve a broad range of problems at the interface of Software Engineering, Programming Language and Verification.  
     <ul>
-        <li><a href="#software-engineering">Machine Learning for Software Enginnering</a></li> 
-        <li><a href="#verification-meets-ai">Machine Learning meets Logic and Verification</a></li> 
-	    <li><a href="#software-security">Software security</a></li> 
-		<li><a href="#program-analysis-and-constraint-solving">Program analysis and constraint solving</a></li> 
-		<li><a href="#probabilistic-verification">Probabilistic verification</a></li>
-        <li><a href="#process-algebra">Process algebra</a> </li>
+        <li><a href="#software-engineering">Neuro-symbolic Software Enginnering and Verificaton</a></li> 
+<!--         <li><a href="#verification-meets-ai">Machine Learning meets Logic and Verification</a></li>  --->
+<!-- 	    <li><a href="#software-security">Software security</a></li>  --->
+		<li><a href="#program-analysis-and-constraint-solving">Program analysis and Constraint Solving</a></li> 
+		<li><a href="#probabilistic-verification">Probabilistic Verification</a></li>
+        <li><a href="#process-algebra">Process Algebra</a> </li>
     </ul>
 
     <hr> 
@@ -120,15 +120,18 @@ to solve a broad range of problems at the interface of Programming Language, Ver
 <!-- software engineering  -->
 <!-- software engineering  -->
     
-<h3 id="software-engineering"><ins>Machine Learning for Software Engineering</ins></h3>
+<h3 id="software-engineering"><ins>Neuro-symbolic Software Enginnering and Verificaton</ins></h3>
 
 <!--<p>&nbsp;</p> --> 
 
     
-<h4 id="code-recommendation"><span style="color:blue">Neural code generation and API recommendation</span></h4>
+<h4 id="code-recommendation"><span style="color:blue">Neural code generation</span></h4>
  
 <h5 id="selected-papers-">Selected papers</h5>
 <ul>
+<li>Guang Yang, Yu Zhou, Wenhua Yang, Tao Yue, Xiang Chen, Taolue Chen. <a href="pub-papers/tosem24.pdf">How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective</a>. ACM Trans. Softw. Eng. Methodol. 33(3): 60:1-60:35, 2024. </li>
+<li>Yu Zhou, Weilin Zhan, Zi Li, Tingting Han, Taolue Chen, Harald Gall. <a href="pub-papers/tosem24drive.pdf">DRIVE: Dockerfile Rule Mining and Violation Detection.</a> ACM Trans. Softw. Eng. Methodol. 33(2): 30:1-30:23, 2024.  </li>
+<li>Xiangyu Zhang, Yu Zhou, Guang Yang, Tingting Han, Taolue Chen. <a href="pub-papers/jss24.pdf">Context-aware code generation with synchronous bidirectional decoder.</a> Journal of Systems and Software 214, 112066, August 2024.</li>
 <li>Xiangyu Zhang, Yu Zhou, Guang Yang, Taolue Chen. <a href="pub-papers/emnlp23.pdf">Syntax-Aware Retrieval Augmented Code Generation</a>. The 2023 Conference on Empirical Methods in Natural Language Processing
 (EMNLP, finding), 2023. </li> 
 <li>Guang Yang, Yu Zhou, Xiang Chen, Xiangyu Zhang, Yiran Xu, Tingting Han, Taolue Chen. <a href="pub-papers/ese23.pdf">A Syntax-Guided Multi-Task Learning Approach for Turducken-Style Code Generation</a>. Empirical Software Engineering 28:141. 2023. </li>
@@ -158,31 +161,21 @@ to solve a broad range of problems at the interface of Programming Language, Ver
 </ul>  
 
 <h4 id="automatic-detection-and-repair-recommendation-of-directive-defects-in-java-api-documentation"><span style="color:blue">Defects Detection of Software artifacts</span></h4>
-<p>API providers tend to release incomplete or inconsistent API documentation, which deviates from the actual API implementation. We formally investigate the issue of inconsistency between API code and its documentation for the first time. We provide a novel method---with tool implementation---to automatically detect and repair defects from API documents. The empirical evaluation shows that the approach and the associated tool are able to find confirmed defects of documents for JDK 1.8 APIs and Android 7.0.</p>
+<p>API providers tend to release incomplete or inconsistent API documentation, which deviates from the actual API implementation. We formally investigate the issue of inconsistency between API code and its documentation for the first time. 
+We provide a novel method---with tool implementation---to automatically detect and repair defects from API documents. The empirical evaluation shows that the approach and the associated tool are able to find confirmed defects of documents for JDK 1.8 APIs and Android 7.0.</p>
 <h5 id="selected-papers-">Selected papers:</h5>
 <ul>
 <li>Yu Zhou, Changzhi Wang, Xin Yan, Taolue Chen, Sebastiano Panichella, Harald Gall. Automatic Detection and Repair Recommendation of Directive Defects in Java API Documentation. IEEE Trans. Software Eng. (The conference version was presented at ICSE&#39;17.)  </li>
 <li>Yu Zhou, Xin Yan, Taolue Chen, Sebastiano Panichella, Harald Gall. DRONE: A Tool to Detect and Repair Directive Defects in Java APIs Documentation. ICSE’19. (<a href="https://spanichella.github.io/tools.html#drone-tool">DRONE</a>, and <a href="https://youtu.be/NDPXiapxoMk">demo video</a>)</li>
 </ul>
  
-    
-  
-    
-<h4 id="user-review-analysis"><span style="color:blue">User review analysis</span></h4>
-<ul>
-<li>Yu Zhou, Yanqi Su, Taolue Chen, Zhiqiu Huang, Harald Gall, Sebastiano Panichella. <a href="pub-papers/tse20.pdf">User Review-Based Change File Localization for Mobile Applications</a>. IEEE Trans. Software Eng. 47(12):2755-2770, 2021. </li>
-</ul>
 
-  
- 
-<hr>
- 
 
 <!-- verification and AI  -->
 <!-- verification and AI  -->
 <!-- verification and AI  -->
     
-<h3 id="verification-meets-ai"><ins>Machine Learning meets Logic and Verification</ins></h3>
+<!-- <h3 id="verification-meets-ai"><ins>Machine Learning meets Logic and Verification</ins></h3> --->
  
 <h4 id="neural-symbolic"><span style="color:blue">Neural Symbolic Systems</span></h4> 
 <ul>
@@ -191,8 +184,17 @@ to solve a broad range of problems at the interface of Programming Language, Ver
 <li>Zenan Li, Yuan Yao, Taolue Chen, Jingwei Xu, Chun Cao, Xiaoxing Ma, Jian Lu. <a href="https://openreview.net/forum?id=HTJE5Krui0g">Softened Symbol Grounding for Neuro-symbolic Systems</a>. ICLR'23. </li>
 </ul>
 
-<h4 id="control-ML"><span style="color:blue">Verification of Neural Networks</span></h4>
+<h4 id="control-ML"><span style="color:blue">Deep Learning for Verification</span></h4>
  <ul> 
+<li>Jiahe Xu, Jingwei Xu, Taolue Chen, Xiaoxing Ma. Symbolic Execution with Test Cases Generated by Large Language Models. QRS'24, IEEE, 2024</li>
+<li>Hengjun Zhao, Xia Zeng, Taolue Chen, Zhimin Liu, Jim Woodcock. Learning Safe Neural Network Controllers with Barrier Certificates. Formal Aspects Comput. 33(3): 437-455, 2021. (Conference version at SETTA'20)</li>  
+<li>Hengjun Zhao, Xia Zeng, Taolue Chen, Zhimin Liu. Synthesizing Barrier Certificates Using Neural Networks. HSCC'20. </li>
+</ul> 
+    
+
+<h4 id="control-ML"><span style="color:blue">Quality Assurance for Deep learning</span></h4>
+<ul>
+<li>Zenan Li, Maorun Zhang, Jingwei Xu, Yuan Yao, Chun Cao, Taolue Chen, Xiaoxing Ma, Jian Lu. <a href="pub-papers/icse23.pdf">Lightweight Approaches to DNN Regression Error Reduction: An Uncertainty Alignment Perspective</a>. ICSE'23. 2023 </li>
 <li>Yedi Zhang, Zhe Zhao, Guangke Chen, Fu Song, Taolue Chen. <a href="pub-papers/tosem-bnn.pdf">Precise Quantitative Analysis of Binarized Neural Networks: A BDD-based Approach</a>. ACM Transactions on Software Engineering and Methodology 32(3): 62:1-62:51, 2023.
 (Conference version under the title <a href="pub-papers/cav21.pdf">BDD4BNN: A BDD-based Quantitative Analysis Framework for Binarized Neural Networks</a> at CAV'21. )</li> 
 <li>Zhe Zhao, Yedi Zhang, Guangke Chen, Fu Song, Taolue Chen, Jiaxiang Liu. <a href="pub-papers/SAS22.pdf"> CLEVEREST: Accelerating CEGAR-based Neural Network Verification via Adversarial Attacks</a>. 29th International Symposium on Static Analysis (SAS'22). 
@@ -200,20 +202,12 @@ Lecture Notes in Computer Science 13,790, pp. 449-473. 2022. </li>
 <!-- <li>Yedi Zhang, Zhe Zhao, Guangke Chen, Fu Song, Taolue Chen. <a href="pub-papers/cav21.pdf">BDD4BNN: A BDD-based Quantitative Analysis Framework for Binarized Neural Networks</a>. CAV'21. </li>--> 
 <li>Yedi Zhang, Zhe Zhao, Guangke Chen, Fu Song, Min Zhang, Taolue Chen, Jun Sun. <a href="pub-papers/ase22.pdf"> QVIP: An ILP-based Formal Verification Approach for Quantized 
 Neural Networks</a>. ASE'22. (Tool: <a href="https://github.com/QVIP22/">QVIP</a>) </li>
-</ul> 
-    
-
-<h4 id="control-ML"><span style="color:blue">Quality Assurance for Deep learning</span></h4>
-<ul>
-<li>Zenan Li, Maorun Zhang, Jingwei Xu, Yuan Yao, Chun Cao, Taolue Chen, Xiaoxing Ma, Jian Lu. <a href="pub-papers/icse23.pdf">Lightweight Approaches to DNN Regression Error Reduction: An Uncertainty Alignment Perspective</a>. ICSE'23. 2023 </li>
 <li>Sen Wang, Zhuheng Sheng, Jingwei Xu, Taolue Chen, Junjun Zhu, Shuhui Zhang, Yuan Yao, Xiaoxing Ma. <a href="pub-papers/ase22-adept.pdf">ADEPT: A Testing Platform for Simulated Autonomous Driving</a>. ASE'22 (Tool Demo).   </li>
 </ul> 
 
-<h4 id="control-ML"><span style="color:blue">Control and ML</span></h4>
- <ul>   
- <li>Hengjun Zhao, Xia Zeng, Taolue Chen, Zhimin Liu, Jim Woodcock. Learning Safe Neural Network Controllers with Barrier Certificates. Formal Aspects Comput. 33(3): 437-455, 2021. (Conference version at SETTA'20)</li>  
- <li>Hengjun Zhao, Xia Zeng, Taolue Chen, Zhimin Liu. Synthesizing Barrier Certificates Using Neural Networks. HSCC'20. </li>
-</ul> 
+<!-- <h4 id="control-ML"><span style="color:blue">Control and ML</span></h4>
+ <ul> -->   
+<!-- </ul> --> 
 
 
 <h4 id="string-constraint-solving"><span style="color:blue">Verification of multi-agent systems</span></h4>
@@ -225,17 +219,23 @@ Neural Networks</a>. ASE'22. (Tool: <a href="https://github.com/QVIP22/">QVIP</a
 <li>Taolue Chen, Fu Song, and Zhilin Wu. Global Model Checking on Pushdown Multi-Agent Systems. AAAI’16, pp. 2459-2465, AAAI Press, 2016.</li>
 </ul>
 
+<h4 id="user-review-analysis"><span style="color:blue">User review analysis</span></h4>
+<ul>
+<li>Yu Zhou, Yanqi Su, Taolue Chen, Zhiqiu Huang, Harald Gall, Sebastiano Panichella. <a href="pub-papers/tse20.pdf">User Review-Based Change File Localization for Mobile Applications</a>. IEEE Trans. Software Eng. 47(12):2755-2770, 2021. </li>
+</ul>
+
 <hr>
  
-
 
  <!-- software security  -->
  <!-- software security  -->
  <!-- software security  -->
     
-<h3 id="software-security"><ins>Software security</ins></h3>
+ <!--  <h3 id="software-security"><ins>Software security</ins></h3> -->
+ 
+ <h3 id="program-analysis-and-constraint-solving"><ins>Program Analysis and Constraint Solving</ins></h3>
   
-<h4 id="side-channel-attacks"><span style="color:blue">Side-channel attacks</span></h4>
+<h4 id="side-channel-attacks"><span style="color:blue">Program Verification for Side-channel Attacks</span></h4>
     
 <p>Cryptographic algorithms are widely used to protect data privacy in many aspects of  daily lives from smart card to cyber-physical systems.
 Unfortunately, programs implementing cryptographic algorithms may be vulnerable to practical power side-channel attacks,
@@ -244,6 +244,7 @@ To thwart these attacks, several masking schemes have been proposed, giving rise
     
 <h5 id="selected-papers-">Selected papers:</h5>    
 <ul>
+<li>Luwei Cai, Fu Song, Taolue Chen. <a href="pub-papers/fse24.pdf">Towards Efficient Verification of Constant-Time Cryptographic Implementations</a>. ACM International Conference on the Foundations of Software Engineering (FSE 2024).</li>
 <li>Pengfei Gao, Yedi Zhang, Fu Song, Taolue Chen, Francois-Xavier Standaert. <a href="pub-papers/oopsla2023.pdf">Compositional Verification of Efficient Masking Countermeasures against Side-Channel Attacks</a>. Object-Oriented Programming, Systems, Languages & Applications 2023 (OOPSLA 2023). To appear. 
 (Tool: <a href="https://github.com/S3L-official/CONVINCE">CONVINCE</a>)</li>
 <li>Pengfei Gao, Fu Song, Taolue Chen. <a href="pub-papers/tosem24-maskcv.pdf">Compositional Verification of First-Order Masking Countermeasures against Power Side-Channel Attacks</a>. ACM Transactions on Software Engineering and Methodology. To appear. </li>
@@ -255,30 +256,29 @@ Pengfei Gao, Hongyi Xie, Jun Zhang, Fu Song, Taolue Chen. Quantitative Verificat
 <li>Pengfei Gao, Hongyi Xie, Fu Song and Taolue Chen. <a href="pub-papers/tosem20.pdf">A Hybrid Approach to Formal Verification of Higher-Order Masked Arithmetic Programs</a>. ACM Trans. Softw. Eng. Methodol. 30(3): 26:1-26:42, 2021. </li>
 <!--<li>Pengfei Gao, Hongyi Xie, Jun Zhang, Fu Song, Taolue Chen. Quantitative Verification of Masked Arithmetic Programs against Side-Channel Attacks. TACAS&#39;19. LNCS 11,427. Springer. 2019.</li>-->
 </ul>
- 
-<h4 id="side-channel-attacks"><span style="color:blue">Secure Multi-Party Computation</span></h4>
-<ul>
-	<li>Yuxin Fan, Fu Song, Taolue Chen, Liangfeng Zhang, Wanwei Liu. <a href="pub-papers/cav22.pdf">PoS4MPC: Automated Security Policy Synthesis for Secure Multi-Party Computation.</a> CAV'22, 2022. </li>
-</ul>
 
-<h4 id="android-multitasking-mechanism"><span style="color:blue">Android Multitasking Mechanism</span></h4>
-<p>We propose formal models to capture key mechanisms of Android multi-tasking, focusing on the evolution of the back stack of the Android system when interacting with activities.</p>
+<h4 id="android-multitasking-mechanism"><span style="color:blue">Android App Analysis and Testing</span></h4>
 <ul>
+<li>Shuqi Liu, Yu Zhou, Longbing Ji, Tingting Han, Taolue Chen. <a href="pub-papers/scp24.pdf">Enhancing test reuse with GUI events deduplication and adaptive semantic matching</a>. Science of Computer Programming, 232(2024), 103052. </li>
+<li>Shuqi Liu, Yu Zhou, Tingting Han, Taolue Chen. Test Reuse Based on Adaptive Semantic Matching across Android Mobile Applications. 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS'22). IEEE. 2022. </li>
+<!-- <p>We propose formal models to capture key mechanisms of Android multi-tasking, focusing on the evolution of the back stack of the Android system when interacting with activities.</p> -->
 <li>Jinlong He, Taolue Chen, Ping Wang, Zhilin Wu, Jun Yan. Android Multitasking Mechanism: Formal Semantics and Static Analysis of Apps. APLAS’19, 2019. </li>
 <li>Taolue Chen, Jinlong He, Fu Song, Guozhen Wang, Zhilin Wu, and Jun Yan. Android Stack Machine. 30th International Conference on Computer Aided Verification (CAV&#39;18). LNCS 10,982, 487-504, 2018.</li>
 </ul>
     
-
-   
  
-    <hr>
+<h4 id="side-channel-attacks"><span style="color:blue">Secure Multi-Party Computation</span></h4>
+<ul>
+<li>Yuxin Fan, Fu Song, Taolue Chen, Liangfeng Zhang, Wanwei Liu. <a href="pub-papers/cav22.pdf">PoS4MPC: Automated Security Policy Synthesis for Secure Multi-Party Computation.</a> CAV'22, 2022. </li>
+</ul>
+ 
 <!--<p>&nbsp;</p> -->
 
  <!-- program analysis -->
  <!-- program analysis  -->
  <!-- program analysis  -->
 	
-<h3 id="program-analysis-and-constraint-solving"><ins>Program analysis and constraint solving</ins></h3>
+
    
 <h4 id="string-constraint-solving"><span style="color:blue">String constraint solving</span></h4>
 <p>String constraint solving is important in a wide range of areas, e.g., program analysis and web security. Previous studies either provide rather fragmented theoretical results on its decidability/complexity, or practical algorithms without completeness guarantees. We identify novel semantical---as opposed to previously syntactic---conditions for string constraints which entail decidability, providing effective decision procedures with detailed complexity analysis, and importantly, efficient implementation as a new string solver Ostrich. The experiments demonstrate the efficacy of the new solver against other competitive solvers. In contrast to previous work, the solver achieves efficiency but without sacrificing theoretical guarantees. </p>
@@ -297,8 +297,8 @@ Pengfei Gao, Hongyi Xie, Jun Zhang, Fu Song, Taolue Chen. Quantitative Verificat
 <li>Zhaowei Xu, Taolue Chen, Zhilin Wu. Satisfiability of Compositional Separation Logic with Tree Predicates and Data Constraints. The 26th International Conference on Automated Deduction (CADE-26). LNCS 10395, pp. 509-527, 2017.</li>
 <li>Xincai Gu, Taolue Chen, and Zhilin Wu. A complete decision procedure for linearly compositional separation logic with data constraints. IJCAR’16, LNCS 9706, pp. 532-549, 2016.</li>
 </ul>
-    
- 
+
+
 <hr>
  
 
@@ -427,7 +427,7 @@ Pengfei Gao, Hongyi Xie, Jun Zhang, Fu Song, Taolue Chen. Quantitative Verificat
 <li>Pengfei Gao, Fu Song, Taolue Chen. <a href="pub-papers/tosem24-maskcv.pdf">Compositional Verification of First-Order Masking Countermeasures against Power Side-Channel Attacks</a>. ACM Transactions on Software Engineering and Methodology. To appear. </li>
 </ul>
 
-<h3 id="2023">2024</h3>    
+<h3 id="2024">2024</h3>    
 <ul>  
 <li>Pu Sun, Fu Song, Yuqi Chen, Taolue Chen. <a href="pub-papers/popl24.pdf">EasyBC: A Cryptography-Specific Language for Security Analysis of Block Ciphers against Differential Cryptanalysis</a>. POPL'24. </li>
 <li>Guang Yang, Yu Zhou, Wenhua Yang, Tao Yue, Xiang Chen, Taolue Chen. <a href="pub-papers/tosem24.pdf">How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective</a>. ACM Trans. Softw. Eng. Methodol. 33(3): 60:1-60:35, 2024. </li>
@@ -437,6 +437,7 @@ Pengfei Gao, Hongyi Xie, Jun Zhang, Fu Song, Taolue Chen. Quantitative Verificat
 <li>Xiangyu Zhang, Yu Zhou, Guang Yang, Tingting Han, Taolue Chen. <a href="pub-papers/jss24.pdf">Context-aware code generation with synchronous bidirectional decoder.</a> Journal of Systems and Software 214, 112066, August 2024.</li>
 <li>Jiahe Xu, Jingwei Xu, Taolue Chen, Xiaoxing Ma. Symbolic Execution with Test Cases Generated by Large Language Models. QRS'24, IEEE, 2024</li>
 <li>Huiyu Tan, Xi Yang, Fu Song, Taolue Chen, Zhilin Wu. Compositional Verification of Cryptographic Circuits against Fault Injection Attacks. FM'24, 2024.</li>
+<li>Huiyu Tan, Pengfei Gao, Fu Song, Taolue Chen, Zhilin Wu. SAT-based Formal Verification of Fault Injection Countermeasures for Cryptographic Circuits. IACR Transactions on Cryptographic Hardware and Embdeeded Systems (CHES'24). To appear. </li>
  </ul>    
  
 <h3 id="2023">2023</h3>
@@ -475,7 +476,7 @@ Pengfei Gao, Hongyi Xie, Jun Zhang, Fu Song, Taolue Chen. Quantitative Verificat
 <li>Zhe Zhao, Yedi Zhang, Guangke Chen, Fu Song, Taolue Chen, Jiaxiang Liu. <a href="pub-papers/SAS22.pdf"> CLEVEREST: Accelerating CEGAR-based Neural Network Verification via Adversarial Attacks</a>. 29th International Symposium on Static Analysis (SAS 2022). Lecture Notes in Computer Science 13790, pp. 449-473. 2002 </li>
 <li>Yedi Zhang, Zhe Zhao, Guangke Chen, Fu Song, Min Zhang, Taolue Chen, Jun Sun. <a href="pub-papers/ase22.pdf"> QVIP: An ILP-based Formal Verification Approach for Quantized Neural Networks</a>. ASE'22. To appear. </li>
 <li>Sen Wang, Zhuheng Sheng, Jingwei Xu, Taolue Chen, Junjun Zhu, Shuhui Zhang, Yuan Yao, Xiaoxing Ma. <a href="pub-papers/ase22-adept.pdf">ADEPT: A Testing Platform for Simulated Autonomous Driving</a>. ASE'22 (Tool Demo). To appear. </li>
-<li>Yongjie Xu, Fu Song, Taolue Chen. <a href="pub-papers/jsa22.pdf">ESampler: Boosting sampling of satisfying assignments for Boolean formulas via derivation</a>. Journal of Systems Architecture. Pages 102615. 2022 </li>
+<li>Yongjie Xu, Fu Song, Taolue Chen. <a href="pub-papers/jsa22.pdf">ESampler: Boosting sampling of satisfying assignments for Boolean formulas via derivation</a>. Journal of Systems Architecture. Pages 102615. 2022 (Conference version: ESampler: Efficient Sampling of Satisfying Assignments for Boolean Formulas. SETTA 2021.) </li>
 <li>Shuqi Liu, Yu Zhou, Tingting Han, Taolue Chen. Test Reuse Based on Adaptive Semantic Matching across Android Mobile Applications. 22nd IEEE International Conference on Software Quality, Reliability, and Security (QRS'22). IEEE. 2022. </li>
 </ul>
 
@@ -488,13 +489,16 @@ Pengfei Gao, Hongyi Xie, Jun Zhang, Fu Song, Taolue Chen. Quantitative Verificat
 <li>Yu Zhou, Yanqi Su, Taolue Chen, Zhiqiu Huang, Harald Gall, Sebastiano Panichella. <a href="pub-papers/tse20.pdf">User Review-Based Change File Localization for Mobile Applications</a>. IEEE Trans. Software Eng. 47(12):2755-2770, 2021. </li>
 <li>Hengjun Zhao, Xia Zeng, Taolue Chen, Zhiming Liu, Jim Woodcock. <a href="pub-papers/fac21.pdf">Learning Safe Neural Network Controllers with Barrier Certificates</a>. Formal Aspects Comput. 33(3): 437-455, 2021. </li>   
 <li>Yedi Zhang, Zhe Zhao, Guangke Chen, Fu Song, Taolue Chen. <a href="pub-papers/cav21.pdf">BDD4BNN: A BDD-based Quantitative Analysis Framework for Binarized Neural Networks</a>. CAV'21. </li>  
+
+<li>Yu Zhou, Haonan Jin, Xinying Yang, Taolue Chen,  Krishna Narasimhan, Harald Gall. <a href="pub-papers/braid-tool.pdf">BRAID: An API Recommender Supporting Implicit User Feedback (Tool demo)</a>. ESEC/SIGSOFT FSE 2021: 1510-1514 </li>      
+<!-- 
+<li>Yongjie Xu, Fu Song, Taolue Chen. ESampler: Efficient Sampling of Satisfying Assignments for Boolean Formulas. SETTA 2021. </li>   
 <li>Yongchao Wang, Yu Zhou, Taolue Chen, Zhiqiu Huang, Jingxuan Zhang and Wenhua Yang. Hybrid Collaborative Filtering-Based API Recommendation. The 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS 2021). </li>
 <li>Juanjuan Shen, Yu Zhou, Yongchao Wang, Xiang Chen, Tingting Han and Taolue Chen. Evaluating Code Summarization with Improved Correlation with Human Assessment. The 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS 2021). </li>
 <li>Raid Rafi Omar Al-Nima, Tingting Han, Saadoon A. M. Al-Sumaidaee, Taolue Chen, Wai Lok Woo. Robustness and performance of Deep Reinforcement Learning. Appl. Soft Comput. 105: 107295, 2021.</li>
-<li>Yongjie Xu, Fu Song, Taolue Chen. ESampler: Efficient Sampling of Satisfying Assignments for Boolean Formulas. SETTA 2021. </li>   
-<li>Yu Zhou, Haonan Jin, Xinying Yang, Taolue Chen,  Krishna Narasimhan, Harald Gall. <a href="pub-papers/braid-tool.pdf">BRAID: An API Recommender Supporting Implicit User Feedback (Tool demo)</a>. ESEC/SIGSOFT FSE 2021: 1510-1514 </li>      
 <li>Xiaoqing Zhang, Yu Zhou, Tingting Han, Taolue Chen. Training Deep Code Comment Generation Model via Data Augmentation. Internetware 2021. </li>
 <li>Liyu Fang, Zhiqiu Huang, Yu Zhou, Taolue Chen. Adaptive Code Completion with Meta-learning. Internetware 2021.</li>
+-->
 </ul>           
             
             
